@@ -1,0 +1,26 @@
+.button{
+position:relative;
+width: 167.65px;
+height: 38px;
+top: 25px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+color:white;
+border:0px ;
+border-radius:4px;
+
+}
+
+
+
+.primary{
+    //background-image:linear-gradient(to-right,#B5DC52,#89E148);
+    background-color:#B5DC52;
+    
+}
+.secondary{
+    background-color:#FF9595;
+   
+
+}
